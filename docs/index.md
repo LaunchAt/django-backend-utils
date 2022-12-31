@@ -21,7 +21,7 @@ Install using `pip` or one of some the alternatives...
 pip install git+https://github.com/LaunchAt/django-backend-utils.git
 ```
 
-Add 'backend_utils' to your INSTALLED_APPS setting.
+Add `'backend_utils'` to your INSTALLED_APPS setting.
 
 ```python
 INSTALLED_APPS = [
