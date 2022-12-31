@@ -17,11 +17,17 @@ remote_name: origin
 # Documentation Layout
 nav:
   - Home: 'index.md'
-  - Release Notes: 'release-notes/index.md'
+  - Utilities:
+    - 'db.md'
+    - 'files.md'
+    - 'logging.md'
+  - Community:
+    - 'release-notes.md'
+
 
 # Build Directories
 theme:
-  name: mkdocs
+  name: material
   locale: en
   custom_dir: ''
   static_templates: []

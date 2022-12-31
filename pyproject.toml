@@ -43,12 +43,10 @@ django = ">=3.2"
 django-storages = "^1.13.1"
 boto3 = "^1.26.24"
 watchtower = "^3.0.0"
-djangorestframework = "^3.14.0"
-pyjwt = "^2.6.0"
-cryptography = "^38.0.4"
 
 [tool.poetry.group.dev.dependencies]
 mkdocs = "^1.4.2"
+mkdocs-material = "^8.5.11"
 flake8 = "^6.0.0"
 isort = "^5.10.1"
 black = "^22.10.0"
