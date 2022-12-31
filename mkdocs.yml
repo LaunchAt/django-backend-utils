@@ -8,7 +8,7 @@ repo_url: https://github.com/LaunchAt/django-backend-utils/
 repo_name: django-backend-utils
 edit_uri: edit/master/docs/
 edit_uri_template: null
-site_description: 'The package `django-backend-utils` has some helpful utilities for basic Django and Django REST framework projects.'
+site_description: 'The package `django-backend-utils` has some helpful utilities for basic Django projects.'
 site_author: LaunchAt, Inc.
 copyright: null
 remote_branch: gh-pages

@@ -5,7 +5,7 @@ build-backend = "poetry.core.masonry.api"
 [tool.poetry]
 name = "django-backend-utils"
 version = "0.0.0"
-description = "The package `django-backend-utils` has some helpful utilities for basic Django and Django REST framework projects."
+description = "The package `django-backend-utils` has some helpful utilities for basic Django projects."
 license = "BSD-3-Clause"
 authors = ["LaunchAt, Inc. <hello@launchat.jp>"]
 maintainers = ["LaunchAt, Inc. <hello@launchat.jp>"]
