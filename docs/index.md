@@ -2,7 +2,7 @@
 
 ## Overview
 
-The package `django-backend-utils` has some helpful utilities for basic Django and Django REST framework projects.
+The package `django-backend-utils` has some helpful utilities for basic Django projects.
 
 ## Requirements
 
