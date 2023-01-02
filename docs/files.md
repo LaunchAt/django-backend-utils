@@ -156,7 +156,7 @@ STATICFILES_STORAGE = 'backend_utils.files.storage.StaticStorage'
 
 FILE_STORAGES = {
     'default': {
-        'class': 'backend_utils.files.storage.AWSS3Storage',
+        'class': 'backend_utils.files.aws_s3.AWSS3Storage',
         'access_key': os.getenv('AWS_ACCESS_KEY_ID'),
         'secret_key': os.getenv('AWS_SECRET_ACCESS_KEY'),
         'bucket_name': os.getenv('AWS_S3_BUCKET_NAME'),
