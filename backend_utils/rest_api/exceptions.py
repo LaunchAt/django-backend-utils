@@ -27,7 +27,7 @@ def exception_handler(exc, context):
                 'status_code': exc.status_code,
             }
 
-        if isinstance(exc.detail, dict):
+        elif isinstance(exc.detail, dict):
             data = {
                 'code': 'dict_error',
                 'detail': exc.detail,
